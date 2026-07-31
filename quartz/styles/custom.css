@@ -1,0 +1,9 @@
+.folder-title {
+  font-size: 0;
+}
+
+.folder-title::before {
+  content: attr(data-title);
+  font-size: 1rem;
+}
+

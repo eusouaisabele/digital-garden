@@ -1,3 +1,8 @@
+---
+title: People
+nav: false
+---
+
 Sherilyn Fenn
 
 Bárbara Mori
