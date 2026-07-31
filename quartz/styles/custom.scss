@@ -1,11 +1,4 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.explorer a {
-  font-size: 0;
-}
 
-.explorer a::before {
-  content: attr(data-slug);
-  font-size: 1rem;
-}
