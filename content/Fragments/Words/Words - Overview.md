@@ -1,3 +1,7 @@
+---
+title: Words
+sidebar: false
+---
 **PT**
 
 *[[andança]]*

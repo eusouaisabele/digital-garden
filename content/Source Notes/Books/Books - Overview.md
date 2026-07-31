@@ -1,10 +1,12 @@
+---
+title: Books
+sidebar: false
+---
 what is an *[[antilibrary]]?* to put it simply, an antilibrary is a private collection of unread books. instead of a celebration of everything you know, an antilibrary is an ode to everything you want to explore.
 
 **Past**
 
 **PT**
-*[[o céu da língua - gregório duvivier]]*
-
 *[[à flor da língua - gregório duvivier]]*
 
 *[[latim em pó - caetano w. galindo]]*

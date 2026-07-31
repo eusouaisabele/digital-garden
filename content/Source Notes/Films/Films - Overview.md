@@ -1,3 +1,7 @@
+---
+title: Films
+sidebar: false
+---
 *[[krótki film o miłości (1988)]]* 
 
 *[[trois couleurs - bleu (1993)]]*

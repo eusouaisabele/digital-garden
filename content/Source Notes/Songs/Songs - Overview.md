@@ -1,3 +1,7 @@
+---
+title: Songs
+sidebar: false
+---
 **PT**
 *[[tudo outra vez - belchior]]* 
 

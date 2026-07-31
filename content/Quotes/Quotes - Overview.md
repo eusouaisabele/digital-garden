@@ -1,3 +1,7 @@
+---
+title: Quotes
+sidebar: false
+---
 [[Isolation]]
 
 [[Growing Up]]
