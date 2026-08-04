@@ -1,7 +1,3 @@
----
-title: People - Overview
-draft: true
----
 **Nawal El Saadawi**
 
 **Sherilyn Fenn**

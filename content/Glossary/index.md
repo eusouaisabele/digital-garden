@@ -1,7 +1,3 @@
----
-title: Glossary - Overview
-draft: true
----
 **Palavras** (PT)
 
 andança

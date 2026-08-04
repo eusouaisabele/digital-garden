@@ -1,7 +1,3 @@
----
-title: Films - Overview
-draft: true
----
 **Krótki Film O Miłości (1988)** 
 
 **Trois Couleurs - Bleu (1993)**

@@ -1,7 +1,3 @@
----
-title: Quotes - Overview
-draft: true
----
 [[Isolation]]
 
 [[Growing Up]]

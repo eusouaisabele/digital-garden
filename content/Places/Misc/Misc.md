@@ -1,5 +1,6 @@
 ---
-sidebar: false
+title: Misc
+draft: true
 ---
 
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start;">

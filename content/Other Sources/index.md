@@ -1,7 +1,3 @@
----
-title: Other Sources - Overview
-draft: true
----
 [[Exhibitions]]
 
 [[Eating Out]]

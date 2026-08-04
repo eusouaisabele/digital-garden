@@ -1,5 +1,6 @@
 ---
-sidebar: false
+title: Places - Overview
+draft: true
 ---
 [[Paris]]
 
