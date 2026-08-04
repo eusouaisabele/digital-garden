@@ -1,10 +1,10 @@
-**PT**
+**(PT)**
 
 vou criar o que me aconteceu.
 
 respeite a você mais do que aos outros. respeite suas exigências, respeite mesmo o que é ruim em você. respeite, sobretudo, o que você imagina que é ruim em você. pelo amor de Deus, não queira fazer de você uma pessoa perfeita. não copie uma pessoa ideal. copie você mesma. é esse o único meio de viver.
 
-**EN**
+**(EN)**
 
 if you're always trying to be normal, you will never know how amazing you can be.
 

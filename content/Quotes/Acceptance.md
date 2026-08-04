@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 vou me vingar da maneira mais cruel que você pode imaginar. vou deixar pra lá.
 
@@ -14,7 +14,7 @@ na melhor das hipóteses eu sou a sucessão de erros tentando acertar.
 
 toda grande mudança começa com uma pequena morte: do medo, do antigo, do que já não serve mais.
 
-**EN**
+**(EN)**
 
 i get it now; i didn't get it then. that life is about losing and doing it as gracefully as possible... and enjoying everything in between.
 

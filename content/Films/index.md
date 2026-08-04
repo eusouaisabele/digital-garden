@@ -9,6 +9,7 @@
 **Ta'm-e Gīlās(1997)**
 
 **Lost in Translation (2003)**
+
 "the more you know who you are and what you want, the less you let things upset you."
 
 **Her (2013)**

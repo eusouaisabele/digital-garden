@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 eu me exponho melhor no silêncio.
 
@@ -6,11 +6,11 @@ há momentos na vida em que o melhor que temos a fazer é ficar calados e observ
 
 primeiro aprenda o significado do que você diz, e então fale.
 
-**ES**
+**(ES)**
 
 quien siente mucho, se jode al no encontrar las palabras, entonces no habla y esa es sua condena.
 
-**EN**
+**(EN)**
 
 and what's the use of talking if you already know that others don't feel what you feel?
 

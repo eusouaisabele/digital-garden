@@ -1,34 +1,4 @@
-**PT**
-
-**À Flor da Língua - Gregório Duvivier**
-
-"o nome não tem uma relação uterina com a coisa. mas vai deformando a coisa até ela ficar parecida com ele."
-
-"chamar um país de estados unidos é como chamar um filho de <<orgãos amontoados>>."
-
-"outra coisa que não se cobra: o capricho."
-
-"todo mundo que fala outra língua já se descobriu com outros trejeitos, outro humor e até outras opiniões por causa da língua nova."
-
-**Latim em Pó - Caetano W. Galindo**
-
-"aquilo que para uma pessoa adulta, instruída, com acesso a todo tipo de recursos e métodos é uma tarefa complicadíssima, uma criança pequena resolve por conta própria, quase sem dar por isso."
-
-"não é preciso recorrer a anedotas, listas de palavras diferentes ou piadas sobre a pronúncia de alguns sons para ficar claro que aquilo que em lisboa se chama de português tem lá suas diferenças em relação ao que chamamos de português aqui em curitiba, onde eu estou escrevendo."
-
-"cada falante se sente (devidamente) dono da língua, e assim ele tem, por vezes, dificuldade para ouvir opiniões que contrastem com o que acredita saber perfeitamente bem."
-
-"dentre as pretensas verdades que existem na relação dos brasileiros com a sua língua está a estranha e paradoxal tendência de desacreditar nossa posse do idioma. assim, parecemos teimosamente dispostos a crer em discursos  que relativizem o nosso domínio da língua. esses discursos podem vir da escola, da imprensa, de certa tradição gramatical, e acabam determinando de maneira muito nítida a imagem que o falante tem de si próprio e de sua competência, criando a mais do que conhecida ideia de que ninguém "fala certo" no brasil; seja porque o português é uma língua terrivelmente difícil, seja porque somos todos uns broncos, uns ignorantes (ao contrário, é claro, dos portugueses)."
-
-"as leis da gramática escolar não são leis de verdade e nem deveriam ser. no entanto, muitas vezes seus defensores pensam nelas como mais que isso: eles as veem como se fossem mandamentos divinos que não admitem desvios. as regras de uso de uma língua não podem ser mais determinantes do que o coletivo de seus usuários. se uma maioria expressiva de falantes se comporta de forma contrária ao que a regra prevê, isso aponta para a necessidade de, sim, alterar a regra e fazer com que ela expresse mais adequadamente os usos da língua na sociedade."
-
-"as línguas mudam. o tempo todo surgem modos alternativos de dizer alguma coisa, formas mais velhas vão desaparecendo, destronadas por novas variantes. e essa mudança, assim que começa a ocorrer, é sempre percebida como desvio, como aberração a ser evitada a qualquer custo. mas o fato incontornável é que muito do que hoje é tido como refinado, elevado e sofisticado em algum momento foi visto como desvio simplório e grosseiro da norma-padrão. nosso português mais fino é pouco mais que um latim atrapalhado."
-
-"começar a estudar linguística de verdade é aprender que as coisas são muito mais complicadas do que parecem, e também entender que respostas simples e congeladas no tempo raramente dão conta da realidade multifacetada dos fatos."
-
-"nosso verdadeiro problema é que por muito tempo tentaram nos convencer de que as mudanças que operamos no idioma eram todas ilegítimas, tentaram nos fazer acreditar que somente as alterações do nobre passado eram aceitas, nunca as nossas."
-
-"é lógico que falamos o nosso idioma perfeitamente bem. como todo e qualquer povo em contato com a sua língua nativa. o que acontece é que, ao falar ou escrever, montamos nossas frases de maneira diferente da dos portugueses, e muita gente insistiu durante tempo demais que apenas eles, na europa, tinham o poder de definir o que era bom, justo e correto, e que qualquer desvio daquele padrão seria erro, incompetência, ignorância."
+**(PT)**
 
 **Idéias Para Adiar o Fim do Mundo - Ailton Krenak**
 
@@ -92,7 +62,37 @@
 
 "demorei a entender, mas minha mãe foi um espírito livre enjaulado. até o desejo dela de jogar basquete na adolescência foi proibido, porque os parentes acreditavam que esse era um esporte para lésbicas, e as meninas da família não podiam cometer este "pecado"."
 
-**EN**
+**À Flor da Língua - Gregório Duvivier**
+
+"o nome não tem uma relação uterina com a coisa. mas vai deformando a coisa até ela ficar parecida com ele."
+
+"chamar um país de estados unidos é como chamar um filho de <<orgãos amontoados>>."
+
+"outra coisa que não se cobra: o capricho."
+
+"todo mundo que fala outra língua já se descobriu com outros trejeitos, outro humor e até outras opiniões por causa da língua nova."
+
+**Latim em Pó - Caetano W. Galindo**
+
+"aquilo que para uma pessoa adulta, instruída, com acesso a todo tipo de recursos e métodos é uma tarefa complicadíssima, uma criança pequena resolve por conta própria, quase sem dar por isso."
+
+"não é preciso recorrer a anedotas, listas de palavras diferentes ou piadas sobre a pronúncia de alguns sons para ficar claro que aquilo que em lisboa se chama de português tem lá suas diferenças em relação ao que chamamos de português aqui em curitiba, onde eu estou escrevendo."
+
+"cada falante se sente (devidamente) dono da língua, e assim ele tem, por vezes, dificuldade para ouvir opiniões que contrastem com o que acredita saber perfeitamente bem."
+
+"dentre as pretensas verdades que existem na relação dos brasileiros com a sua língua está a estranha e paradoxal tendência de desacreditar nossa posse do idioma. assim, parecemos teimosamente dispostos a crer em discursos  que relativizem o nosso domínio da língua. esses discursos podem vir da escola, da imprensa, de certa tradição gramatical, e acabam determinando de maneira muito nítida a imagem que o falante tem de si próprio e de sua competência, criando a mais do que conhecida ideia de que ninguém "fala certo" no brasil; seja porque o português é uma língua terrivelmente difícil, seja porque somos todos uns broncos, uns ignorantes (ao contrário, é claro, dos portugueses)."
+
+"as leis da gramática escolar não são leis de verdade e nem deveriam ser. no entanto, muitas vezes seus defensores pensam nelas como mais que isso: eles as veem como se fossem mandamentos divinos que não admitem desvios. as regras de uso de uma língua não podem ser mais determinantes do que o coletivo de seus usuários. se uma maioria expressiva de falantes se comporta de forma contrária ao que a regra prevê, isso aponta para a necessidade de, sim, alterar a regra e fazer com que ela expresse mais adequadamente os usos da língua na sociedade."
+
+"as línguas mudam. o tempo todo surgem modos alternativos de dizer alguma coisa, formas mais velhas vão desaparecendo, destronadas por novas variantes. e essa mudança, assim que começa a ocorrer, é sempre percebida como desvio, como aberração a ser evitada a qualquer custo. mas o fato incontornável é que muito do que hoje é tido como refinado, elevado e sofisticado em algum momento foi visto como desvio simplório e grosseiro da norma-padrão. nosso português mais fino é pouco mais que um latim atrapalhado."
+
+"começar a estudar linguística de verdade é aprender que as coisas são muito mais complicadas do que parecem, e também entender que respostas simples e congeladas no tempo raramente dão conta da realidade multifacetada dos fatos."
+
+"nosso verdadeiro problema é que por muito tempo tentaram nos convencer de que as mudanças que operamos no idioma eram todas ilegítimas, tentaram nos fazer acreditar que somente as alterações do nobre passado eram aceitas, nunca as nossas."
+
+"é lógico que falamos o nosso idioma perfeitamente bem. como todo e qualquer povo em contato com a sua língua nativa. o que acontece é que, ao falar ou escrever, montamos nossas frases de maneira diferente da dos portugueses, e muita gente insistiu durante tempo demais que apenas eles, na europa, tinham o poder de definir o que era bom, justo e correto, e que qualquer desvio daquele padrão seria erro, incompetência, ignorância."
+
+**(EN)**
 
 **The Creative Act - A Way of Being** 
 

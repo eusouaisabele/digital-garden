@@ -1,4 +1,3 @@
-
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start;">
 
 <img src="0F44048A-3E2D-495F-B24B-379B33CFFE30.jpg" style="max-width:200px; height:auto;">

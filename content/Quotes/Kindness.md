@@ -1,8 +1,8 @@
-**PT**
+**(PT)**
 
 me esforço para ser melhor a cada dia, pois bondade também se aprende.
 
-**EN**
+**(EN)**
 
 in people's lives I want to be that which does not hurt.
 

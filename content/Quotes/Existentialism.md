@@ -1,10 +1,10 @@
-**PT**
+**(PT)**
 
 há em mim uma sede de infinito, uma angústia constante que nem eu mesma compreendo, pois estou longe de ser uma pessoa. sou antes uma exaltada, com uma alma intensa, violenta, atormentada; uma alma que não se sente bem onde está, que tem saudade sei lá de quê.
 
 estou cansada de cada vez mais me sentir incompreendida e insatisfeita comigo, com a vida e com os outros. diz-me: por que não nasci igual aos outros, sem dúvidas, sem desejos de impossível?
 
-**EN**
+**(EN)**
 
 perhaps if i make myself write, i shall find out what is wrong with me.
 

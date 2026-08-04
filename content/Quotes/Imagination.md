@@ -1,4 +1,4 @@
-**EN**
+**(EN)**
 
 when you start working, everybody's in your studio: the past, your friends, enemies, the art world, and above all, your own ideas - all are there. but as you continue painting, they start leaving, one by one, and you are left completely alone. then, if you're lucky, even you leave.
 

@@ -1,4 +1,4 @@
-**EN**
+**(EN)**
 
 the idea of research as a leisure activity has stayed with me because it seems to describe a kind of intellectual inquiry that comes from idiosyncratic passion and interest. it's not about formal credentials. it's fundamentally about play. it describes a life where it's simply fun to be reading, learning, writing, and collaborating on ideas.
 

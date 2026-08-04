@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 a infância não volta, mas não vai. fica recolhida, como se diz de certas doenças.
 
@@ -6,7 +6,7 @@ envelhecer é ir se retirando progressivamente do mundo das aparências.
 
 o mundo para mim passou a estar dividido em três partes: uma em que eu, o escravo, vivia, submetido a leis inventadas só para mim e que eu, aliás sem saber porquê, nunca conseguia cumprir inteiramente; depois, um segundo mundo, infinitamente afastado do meu, no qual tu vivias, ocupado com o governo, com o dar ordens e com a irritação por estas não serem seguidas; e, por fim, um terceiro mundo, onde as outras pessoas viviam felizes e livres de ordens e obediências.
 
-**EN**
+**(EN)**
 
 what i would have needed was a little encouragement, a little friendliness, a little keeping open of my road, instead of which you blocked it for me, though of course with the good intention of making me go another road. but i was not fit for that.
 

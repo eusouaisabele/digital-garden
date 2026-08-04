@@ -1,8 +1,8 @@
-**PT**
+**(PT)**
 
 gosto de um modo carinhoso do inacabado, do malfeito, daquilo que desajeitadamente tenta um pequeno voo e cai sem graça no chão.
 
-**EN**
+**(EN)**
 
 i always had a repulsive need to be something more than human.
 

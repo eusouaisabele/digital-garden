@@ -1,4 +1,4 @@
-**EN**
+**(EN)**
 
 you and i knew strange corners of life.
 

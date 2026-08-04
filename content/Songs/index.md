@@ -1,6 +1,6 @@
-**PT**
+**(PT)**
 
-**tudo outra vez - belchior**
+**Tudo Outra Vez - Belchior**
 
 "ouvi dizer num papo da rapaziada  
 que aquele amigo que embarcou comigo  
@@ -18,21 +18,21 @@ na américa do sul"
 "até parece que foi ontem, minha mocidade  
 com diploma de sofrer de outra universidade"
 
-**pois é, seu zé - cláudia**
+**Pois É, Seu Zé - Cláudia**
 
 "a corda bamba me forçou a ser equilibrista"
 
 "a vida e a morte eu penteio  
 sou malabarista"
 
-**não sei dançar - marina**
+**Não Sei Dançar - Marina**
 
 "meus olhos se escondem onde explodem paixões
 e tudo que eu posso te dar é solidão com vista pro mar"
 
 "às vezes eu quero demais e eu nunca sei se eu mereço"
 
-**vapor barato - gal costa**
+**Vapor Barato - Gal Costa**
 
 "vou descendo por todas as ruas  
 e vou tomar aquele velho navio"
@@ -40,14 +40,14 @@ e vou tomar aquele velho navio"
 "talvez eu volte
 um dia eu volto"
 
-**a flor e o espinho - nelson cavaquinho**
+**A Flor E O Espinho - Nelson Cavaquinho**
 
 "tire o seu sorriso do caminho  
 que eu quero passar com a minha dor"
 
-**não grile a minha cuca - toni tornado**
+**Não Grile A Minha Cuca - Toni Tornado**
 
-**take me back to piauí - juca chaves**
+**Take Me Back To Piauí - Juca Chaves**
 
 "adeus, paris tropical  
 adeus, brigitte bardot  
@@ -59,9 +59,9 @@ na razão do patropi
 eu também, que sou esperto  
 vou viver no piauí"
 
-**FR**
+**(FR)**
 
-**ma liberté - georges moustaki**
+**Ma Liberté - Georges Moustaki**
 
 "et combien j'ai souffert  
 pour pouvoir satisfaire tes moindres exigences  
@@ -74,41 +74,43 @@ même la solitude"
 "toi qui m'as fait sourire
 quand je voyais finir une belle aventure"
 
-**renaissance - jean-luc ponty**
+**Renaissance - Jean-Luc Ponty**
 
-**garde le pour toi - paradis**
+**Garde Le Pour Toi - Paradis**
 
 "mais si un jour tu te rappelais de moi  
 je serai certainement pas loin de toi  
 dans le noir je n'étais plus qu'une proie  
 et j'espère qu'un jour tu me pardonneras"
 
-**ES**
-**ser parte - siddharta**
+**(ES)**
 
-**esperanza - hermanos gutiérrez**
+**Ser Parte - Siddharta**
 
-**CA**
-**avui l'únic que vull - pau vallvé**
+**Esperanza - Hermanos Gutiérrez**
 
-**èpoques glorioses - pau vallvé**
+**(CA)**
+
+**Avui L'únic Que Vull - Pau Vallvé**
+
+**Èpoques Glorioses - Pau Vallvé**
 
 "record d'antics moments  
 i festes de fa temps  
 d'èpoques glorioses del passat"
 
-**EN**
+**(EN)**
 
-**rolling with the flow - kurt vile**
+**Rolling With The Flow - Kurt vile**
 
 "folks said that i would change my mind  
 i'd straighten up and do just fine"
 
-**to whom it may concern - rodriguez**
+**To Whom It May Concern - Rodriguez**
 
-**gumshoe blues - paul pritchard**
+**Gumshoe Blues - Paul Pritchard**
 
-**because of you - lana del rey**
+**Because Of You - Lana Del Rey**
 
 "i was a kid who could only drink  
 dancing tables, making deals with devils  

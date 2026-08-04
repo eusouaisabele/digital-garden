@@ -1,5 +1,5 @@
-[[Places/Paris]]
+[[Places/Paris/index.md]]
 
-[[Places/Portugal]]
+[[Places/Portugal/index.md]]
 
-[[Places/Misc]]
+[[Places/Misc/index.md]]

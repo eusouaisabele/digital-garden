@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 minha mãe achava estudo a coisa mais fina do mundo. não é. a coisa mais fina do mundo é o sentimento.
 
@@ -6,7 +6,7 @@ naquele dia, fazia um azul tão límpido, meu deus, que eu me sentia perdoado pa
 
 é horrível assistir à agonia de uma esperança.
 
-**EN**
+**(EN)**
 
 my heart was a hysterical unreliable organ.
 

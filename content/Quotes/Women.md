@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 eu mesma nunca fui capaz de descobrir precisamente o que é o feminismo. eu só sei que as pessoas me chamam de feminista toda vez que expresso sentimentos que me diferem de um capacho.
 
@@ -6,7 +6,7 @@ eu sou mansa, mas minha função de viver é feroz.
 
 quero que tudo seja intenso, exagero e louco. porque só assim fico satisfeita!
 
-**EN**
+**(EN)**
 
 you have to learn how to care about people without taking on all of their problems.
 

@@ -1,12 +1,12 @@
-**PT**
+**(PT)**
 
 a guerra começa antes do primeiro disparo: a guerra começa neste processo de desumanização do outro.
 
-**ES**
+**(ES)**
 
 donde hay poca justicia, es un peligro tener razón.
 
-**EN**
+**(EN)**
 
 you have to act as if it were possible to radically transform the world. and you have to do it all the time.
 

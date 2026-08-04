@@ -1,4 +1,4 @@
-**PT**
+**(PT)**
 
 daquilo que os outros não sabem sobre mim, disso eu vivo.
 
@@ -6,7 +6,7 @@ daquilo que os outros não sabem sobre mim, disso eu vivo.
 
 quem é que estava em condições de fazer saltar em mim uma centelha de interesse em participar?
 
-**EN**
+**(EN)**
 
 i felt a tremendous distance between me and everything real.
 
