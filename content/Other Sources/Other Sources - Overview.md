@@ -1,5 +1,5 @@
 ---
-sidebar:
+sidebar: false
 ---
 [[Exhibitions]]
 

@@ -1,5 +1,5 @@
 ---
-sidebar:
+sidebar: false
 ---
 </div>
 <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:flex-start;">

@@ -1,5 +1,5 @@
 ---
-sidebar:
+sidebar: false
 ---
 **Krótki Film O Miłości (1988)** 
 
@@ -23,6 +23,8 @@ sidebar:
 **L'histoire de Souleymane (2024)**
 
 **The Seed of The Sacred Fig (2024)**
+
+**La double Vie d'Hilma af Klint (2026)**
 
 
  
